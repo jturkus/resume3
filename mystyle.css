@@ -1,0 +1,49 @@
+* {
+  font-family: Tahoma, Arial;
+  background-color: #FFFFCC;
+}
+
+.intro {
+  text-align: center;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+h1:hover {
+  color: blue;
+}
+
+h3, h6 {
+  font-size: 14px;
+}
+
+h3:hover {
+  color: blue;
+}
+
+h6:hover {
+  color: red;
+}
+
+h5 {
+  text-decoration: underline;
+  font-size: 16px;
+}
+
+p {
+  font-size: 12px;
+}
+
+.edskills {
+  text-align: center;
+}
+
+.email:clicked {
+  color: blue;
+}
+
+.bottomhalf {
+  padding-left: 20%; 
+}
